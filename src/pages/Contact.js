@@ -10,7 +10,7 @@ function Contact() {
     
       <div className="flex items-center justify-between w-full mb-16">
         <div className="text-center ml-16">
-          <h1 className="text-center text-4xl font-bold ml-16" >Contact Us</h1>
+          <h1 className="text-center text-4xl font-bold ml-16 pl-16" >Contact Us</h1>
           
         </div>
         <img src={Image} alt="Vision and Mission" className="w-1/1 h-auto mr-16 " />
