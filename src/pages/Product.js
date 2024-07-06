@@ -29,7 +29,7 @@ function Products() {
 
       {/* MID DRIVE Section */}
       <section className="mb-16">
-        <h2 className=" text-center text-9xl font-bold text-orange-500 pt-16 mt-10">MID DRIVE</h2>
+        <h2 className=" text-center text-9xl font-bold text-orange-500 pt-16 mt-16">MID DRIVE</h2>
         <div className="flex flex-col md:flex-row items-center pt-10">
           
           <video
