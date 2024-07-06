@@ -17,10 +17,8 @@ function Products() {
        
     <div className="px-5 py-16">
 
-      <div className="px-8 py-8">
-        <br>
-        </br>
-        <br>
+      <div className="px-8 py-8 mt-16 mb-16">
+       
         </br>
       <h1 className="text-9xl text-center mt-16 pt-4 pb-16 mb-16">Motorall Products</h1>
      </div>
