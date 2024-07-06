@@ -58,7 +58,7 @@ function Home() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen px-4 md:px-0">
-      <div className="flex flex-col md:flex-row items-center justify-between w-full mb-8 mt-6">
+      <div className="flex flex-col md:flex-row items-center justify-between w-full mb-8 mt-10">
         <div className="text-center pl-16">
           <h1 className="text-5xl font-bold ">Welcome to</h1>
           <h2 className="text-9xl font-extrabold">Motorall</h2>
