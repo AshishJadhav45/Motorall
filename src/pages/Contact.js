@@ -5,10 +5,9 @@ import Image from '../images/contact.jpg'
 function Contact() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-9">
-    <br>
-    </br>
     
-      <div className="flex items-center justify-between w-full mb-16">
+    
+      <div className="flex items-center justify-between w-full mb-16 mt-16">
         <div className="text-center ml-16">
           <h1 className="text-center text-4xl font-bold ml-16 pl-16" >Contact Us</h1>
           
