@@ -13,7 +13,7 @@ function Contact() {
           <h1 className="text-center text-4xl font-bold ml-16" >Contact Us</h1>
           
         </div>
-        <img src={Image} alt="Vision and Mission" className="w-1/1 h-auto mr-8 " />
+        <img src={Image} alt="Vision and Mission" className="w-1/1 h-auto mr-16 " />
       </div>
 
 
