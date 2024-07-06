@@ -10,6 +10,8 @@ function Contact() {
   return (
     
     <div className="flex flex-col items-center justify-center min-h-screen p-9">
+    <br>
+    </br>
     
       <div className="flex items-center justify-between w-full mb-16">
         <div className="text-center ml-16">
