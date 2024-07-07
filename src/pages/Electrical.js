@@ -17,20 +17,20 @@ const Electrical = () => {
       <h1 className="text-6xl font-bold text-center pt-16">PROFESSIONAL SKILLS</h1>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8 text-center">
         <div className="border p-6">
-          <h2 className="text-xl font-semibold">Analytical Design</h2>
-          <p className="mt-4">Strong knowledge of SOM, TOM and DOM. Knowledge of Material Science & Fluid Dynamics.</p>
+          <h2 className="text-xl font-semibold">Motor Design</h2>
+          <p className="mt-4">Experience in design from Spec to Production Motor. Understanding and experience in Electro Magnetics design, Magnetic circuits. Design and Working knowledge of PM and AC Induction Motors.</p>
         </div>
         <div className="border p-6">
-          <h2 className="text-xl font-semibold">CAD & CAE</h2>
-          <p className="mt-4">Experienced in designing CAD and CAE. Hands on experience in using Catia or Solidworks.</p>
+          <h2 className="text-xl font-semibold">Improving NVH</h2>
+          <p className="mt-4">Experience with Multiphase motor designs, through exposure to Ripple, Cooling, Efficiency, Acoustic Noise Management in Motor Design.</p>
         </div>
         <div className="border p-6">
-          <h2 className="text-xl font-semibold">Execution of Projects</h2>
-          <p className="mt-4">Designing project workflow, deadlines and execution of the project.</p>
+          <h2 className="text-xl font-semibold">FEA</h2>
+          <p className="mt-4">Experience and familiarity with Finite Element Analysis- Motor simulation and modeling experience using Speed, Altair, Motorcad, Maxwell, or equivalents.</p>
         </div>
         <div className="border p-6 md:col-span-3">
-          <h2 className="text-xl font-semibold">Technical Reports</h2>
-          <p className="mt-4">Preparation of technical documentation and presentation.</p>
+          <h2 className="text-xl font-semibold">CAD/ CAE</h2>
+          <p className="mt-4">Experience with CAD/CAE tools for Motor Design SOFTWARES: Solid Works CATIA.</p>
         </div>
       </div>
 
