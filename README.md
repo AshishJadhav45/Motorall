@@ -19,7 +19,7 @@ To get started with this project, you need to have Node.js and npm (or yarn) ins
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/motorall-website.git
+git clone https://github.com/AshishJadhav45/motorall-website.git
 cd motorall-website
 Install the dependencies:
 npm install
