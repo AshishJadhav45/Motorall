@@ -1,6 +1,8 @@
 # Motorall Website
 
-Welcome to the Motorall website project. This project is built using React and Tailwind CSS to create a responsive and visually appealing website. It includes various sections such as a welcome section, vision and mission statements, features, a video background, and a CSR partner slider.
+Welcome to the Motorall website project. This project is built using React and Tailwind CSS 
+to create a responsive and visually appealing website. It includes various sections
+such as a welcome section, vision and mission statements, features, a video background, and a CSR partner slider.
 
 ## Table of Contents
 
