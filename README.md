@@ -34,7 +34,8 @@ Our Features: A section highlighting the key features of the company's products 
 Video Background: A full-screen video background to add visual interest.
 CSR Partner Slider: A slider showcasing the company's CSR partners.
 Responsive Design
-This project is designed to be fully responsive, ensuring a great user experience on all devices, including desktops, tablets, and mobile phones. The layout adjusts dynamically to different screen sizes using Tailwind CSS's responsive utilities.
+This project is designed to be fully responsive, ensuring a great user experience on all devices,
+including desktops, tablets, and mobile phones. The layout adjusts dynamically to different screen sizes using Tailwind CSS's responsive utilities.
 
 Key Components
 Flexbox and Grid: Used for layout and alignment.
