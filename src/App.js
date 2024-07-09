@@ -15,6 +15,7 @@ import './index.css';
 
 
 
+
 function App() {
   return (
     <Router>
@@ -28,10 +29,13 @@ function App() {
           <Route path="/mech" element={<Mech />} />
           <Route path="/Electrical" element={<Electrical />} />
           <Route path="/sales" element={<Sales />} />
+          
+
 
           
         </Routes>
         < Footer/>
+        
         
       </div>
     </Router>
